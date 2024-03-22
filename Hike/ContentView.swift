@@ -1,0 +1,18 @@
+//
+//  ContentView.swift
+//  Hike
+//
+//  Created by Ismael Chavez on 3/20/24.
+//
+
+import SwiftUI
+
+struct ContentView: View {
+    var body: some View {
+       CardView()
+    }
+}
+
+#Preview {
+    ContentView()
+}
